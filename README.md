@@ -9,13 +9,20 @@ python ./programms/task_2_1.py
 python ./programms/task_2_2.py
 ```
 
+
 ## Результаты:
 
 **Задача №1**
+
 ![](assets/task_1_out.png)
 
+
 **Задача №2.1**
+
+
 ![](assets/task_2_1_out.png)
 
+
 **Задача №2.2**
+
 ![](assets/task_2_2_out.png)
